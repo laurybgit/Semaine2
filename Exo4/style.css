@@ -1,0 +1,67 @@
+/* nomenclature commentaire */ 
+
+header
+{
+    border-bottom: 0.1em black solid; 
+    padding: 0.5em;
+}
+
+.logo
+{
+    margin: 0;
+    font-size: 1em;
+    width: 4em;
+}
+
+li
+{
+    list-style: none;
+    padding: 2em 0 2em 4em; 
+    display: inline;
+    text-align: right;
+}
+
+ul
+{
+    display: inline-block;
+    margin-left: 22em;
+}
+
+div
+{
+    display: inline-block;
+    border: solid 0.1em black;
+    padding: 1em; 
+    margin: 3em 3em 1em 3em;  
+    width: 20em;
+}
+
+.letest
+{
+    display: inline-block;
+    padding: 1em; 
+    margin: 0 3em 1em 3em; 
+    width: 20em;
+    border: none; 
+    text-align: center;
+    font-size: 1em; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+footer
+{
+    text-align: center;
+    display: flex; 
+    margin-top: 5em; 
+    align-items: center;
+}
+
+p
+{
+    display: inline;
+}
+
+#droite
+{
+    float: right;
+} 
